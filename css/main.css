@@ -1,3 +1,16 @@
 @import './base/reset.css';
 @import './components/font-awesome.css';
 @import './components/button.css';
+
+body {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    width: 800px;
+    background-color: yellow;
+}
