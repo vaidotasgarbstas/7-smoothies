@@ -50,9 +50,6 @@ main.container {
     background-color: #fff;
     box-shadow: 0 6px 4px -6px #0004;
 }
-.menu-visible .main-menu {
-    display: flex;
-}
 .menu {
     display: flex;
     flex-direction: column;
